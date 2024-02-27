@@ -4,7 +4,13 @@
 I'm a self-taught enthusiast passionate about data, artificial intelligence, and software development. Challenges drive me as they inspire me to seek strategies to apply my knowledge.
 
 ## 🛠 Skills
-Advanced skills in data analysis and innovative solution development. Proficiency in visualization tools enables me to effectively communicate complex insights. Enjoy collaborating in multidisciplinary teams, contributing diverse perspectives to achieve common goals.
+Advanced skills in data analysis and innovative solution development. 
+Python | R | SAS | Java | Rust | SQL
+
+Proficiency in visualization tools enables me to effectively communicate complex insights. 
+Power BI | Tableau | Looker
+
+Enjoy collaborating in multidisciplinary teams, contributing diverse perspectives to achieve common goals.
 
 ## Other Common GitHub Profile Sections
 👩‍💻 Currently diving into data analytics projects...
@@ -17,7 +23,7 @@ Advanced skills in data analysis and innovative solution development. Proficienc
 
 💬 Ask me about data analysis, AI, or software development...
 
-📫 You can reach me at [felipe@example.com](mailto:felipe@example.com)...
+📫 You can reach me at [lufbedoyama@unal.edu.co](mailto:lufbedoyama@unal.edu.co)...
 
 😄 Pronouns: He/Him...
 
